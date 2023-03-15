@@ -3,6 +3,8 @@
 If the bucket contains more than 100k object, you will see a message counting up.
 Pages will be counted in parallel.
 
+With that data you perform a pricing analysis for s3 storage class pricing.
+
 Example: 
 
 ```bash
@@ -25,5 +27,5 @@ Bucket: amplify-trainerportal-dev-90853-deployment
 Bucket not in region eu-central-1, but in region eu-west-1
 ---
 Bucket: aws-cloudtrail-logs-123456789012-d2d863a5
-100 k,  200 k,  300 k,  400 k,  500 k,  600 k,  700 k,  800 k,
+100 k,  200 k,  300 k,  400 k,  500 k,  600 k,  700 k,  800 k, etc
 ```

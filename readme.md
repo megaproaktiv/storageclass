@@ -1,4 +1,4 @@
-# Get storage classes and size of all buckets/objects in a region
+# Get storage classes and size of all AWS S3 buckets/objects in a region
 
 If the bucket contains more than 100k object, you will see a message counting up.
 Pages will be counted in parallel.

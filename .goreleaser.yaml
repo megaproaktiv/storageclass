@@ -12,6 +12,7 @@ builds:
       - linux
       - windows
       - darwin
+    main: ./main/
 archives:
   - replacements:
       darwin: Darwin
